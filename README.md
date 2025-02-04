@@ -1,4 +1,4 @@
-## Hi there 👋 I am Ashita Chandnani
+## Hi there 👋 I am Ashita Chandnani ##
 
 <!--
 **AshitaC/AshitaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
