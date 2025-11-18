@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I build intelligent, scalable, and data-driven systems focusing on:
 
@@ -57,7 +57,7 @@ I am passionate about applying AI to solve real-world problems and transitioning
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ashita-chandnani">
