@@ -44,10 +44,9 @@ I am passionate about applying AI to solve real-world problems and transitioning
 ---
 
 ##  Currently Learning
-- Advanced LLM Fine-Tuning  
-- GenAI Workflows & Prompt Engineering  
-- MLOps for model lifecycle management  
-- Attention mechanisms in deep learning  
+- LLM Fine-Tuning  
+- Agentic Workflows  
+
 
 ---
 
