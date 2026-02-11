@@ -21,8 +21,8 @@
 
 I build intelligent, scalable, and data-driven systems focusing on:
 
-- **Machine Learning & Deep Learning** (PyTorch, TensorFlow, Scikit learn)
 - **NLP & Generative AI** (BERT, LLM apps, RAG, embeddings)
+- **Machine Learning & Deep Learning** (PyTorch, TensorFlow, Scikit learn)
 - **Personalized Recommendation Systems** (hybrid, trust-aware, neural recommenders)
 - **AI Automation & Model Deployment** (FastAPI, Streamlit)
 - **Data Analytics & Visualization** (Python, SQL, Power BI)
