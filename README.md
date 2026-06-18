@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#4e9af1;">Ashita Chandnani</span></h1>
 
 <p align="center">
-  <strong>MS in Computer Science | AI & Machine Learning</strong><br>
+  <strong>MS AI Student @ UT Austin | AI/ML Engineer</strong><br>
   Aspiring Machine Learning Engineer • Data Scientist • GenAI Developer
 </p>
 
@@ -43,15 +43,10 @@ I am passionate about applying AI to solve real-world problems and transitioning
 
 ---
 
-##  Currently Learning
-- LLM Fine-Tuning  
-- Agentic Workflows  
 
-
----
 
 ##  Open To
-- Collaboration on **AI/ML, NLP, GenAI applications**  
+
 - ML / AI Engineering & Data Science internships/full-time roles  
 
 ---
