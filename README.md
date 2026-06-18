@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#4e9af1;">Ashita Chandnani</span></h1>
 
 <p align="center">
-  <strong>MS AI Student @ UT Austin | AI/ML Engineer</strong><br>
+  <strong>MS AI Student @ UT Austin <br>
   Aspiring Machine Learning Engineer • Data Scientist • GenAI Developer
 </p>
 
