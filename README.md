@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#4e9af1;">Ashita Chandnani</span></h1>
 
 <p align="center">
-  <strong>MS AI Student @ UT Austin <br>
+  <strong>MS AI Student @ UT Austin</strong><br>
   Aspiring Machine Learning Engineer • Data Scientist • GenAI Developer
 </p>
 
@@ -22,7 +22,7 @@
 I build intelligent, scalable, and data-driven systems focusing on:
 
 - **NLP & Generative AI** (BERT, LLM apps, RAG, embeddings)
-- **Machine Learning & Deep Learning** (PyTorch, TensorFlow, Scikit learn)
+- **Machine Learning & Deep Learning** (PyTorch, TensorFlow, Scikit-learn)
 - **Personalized Recommendation Systems** (hybrid, trust-aware, neural recommenders)
 - **AI Automation & Model Deployment** (FastAPI, Streamlit)
 - **Data Analytics & Visualization** (Python, SQL, Power BI)
@@ -36,7 +36,7 @@ I am passionate about applying AI to solve real-world problems and transitioning
 **Languages:** Python, SQL  
 **ML/DL:** PyTorch, TensorFlow, Scikit-learn  
 **NLP:** Transformers, BERT, Attention, LLMs  
-**Data Engineering:** Hadoop , PySpark  
+**Data Engineering:** Hadoop, PySpark  
 **MLOps Basics:** Git, Docker, Model Serving  
 **Visualization:** Power BI, Matplotlib, Seaborn  
 **Deployment:** Streamlit, FastAPI  
@@ -47,7 +47,7 @@ I am passionate about applying AI to solve real-world problems and transitioning
 
 ##  Open To
 
-- ML / AI Engineering & Data Science internships/full-time roles  
+- ML / AI Engineering & Data Science internships and full-time roles (2027)  
 
 ---
 
@@ -57,8 +57,11 @@ I am passionate about applying AI to solve real-world problems and transitioning
   <a href="https://www.linkedin.com/in/ashita-chandnani">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ashitachandnani@u.boisestate.edu">
+  <a href="mailto:ashita0904@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://ashitac.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
 
