@@ -3,7 +3,7 @@
 
 <p align="center">
   <strong>MS AI Student @ UT Austin</strong><br>
-  Aspiring Machine Learning Engineer • Data Scientist • GenAI Developer
+  LLM Agents • RAG • MLOps
 </p>
 
 <p align="center">
@@ -19,15 +19,13 @@
 
 ## About Me
 
-I build intelligent, scalable, and data-driven systems focusing on:
+MS in AI student at UT Austin (MS CS, Boise State). I build:
 
-- **NLP & Generative AI** (BERT, LLM apps, RAG, embeddings)
-- **Machine Learning & Deep Learning** (PyTorch, TensorFlow, Scikit-learn)
-- **Personalized Recommendation Systems** (hybrid, trust-aware, neural recommenders)
-- **AI Automation & Model Deployment** (FastAPI, Streamlit)
-- **Data Analytics & Visualization** (Python, SQL, Power BI)
+- **LLM agents and RAG systems:** LangGraph, LangChain, FAISS, ChromaDB, AWS Bedrock AgentCore
+- **ML pipelines that deploy:** FastAPI, Docker, GitHub Actions, AWS
+- **Research-grade ML:** PyTorch recommenders tested against baselines and ablations
 
-I am passionate about applying AI to solve real-world problems and transitioning into **industry ML & GenAI roles**.
+Open to 2027 AI/ML engineering internships and roles · [ashitac.github.io](https://ashitac.github.io)
 
 ---
 
@@ -44,12 +42,6 @@ I am passionate about applying AI to solve real-world problems and transitioning
 ---
 
 
-
-##  Open To
-
-- ML / AI Engineering & Data Science internships and full-time roles (2027)  
-
----
 
 ## Connect with Me
 
