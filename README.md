@@ -34,7 +34,7 @@ Open to 2027 AI/ML engineering internships and roles · [ashitac.github.io](http
 **Languages:** Python, SQL  
 **ML/DL:** PyTorch, TensorFlow, Scikit-learn  
 **NLP:** Transformers, BERT, Attention, LLMs  
-**Data Engineering:** Hadoop, PySpark  
+**Data Engineering:** PySpark, Spark SQL, Hadoop (HDFS)  
 **MLOps Basics:** Git, Docker, Model Serving  
 **Visualization:** Power BI, Matplotlib, Seaborn  
 **Deployment:** Streamlit, FastAPI  
